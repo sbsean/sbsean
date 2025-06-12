@@ -40,29 +40,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/sbsean">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=sbsean&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sbsean">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbsean&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/sbsean">
-  <img align="center" width="96%" src="https://github-readme-streak-stats.herokuapp.com?user=sbsean&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbsean&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sbsean&label=Profile%20views&color=0e75b6&style=flat" alt="sbsean" />
-</p>
