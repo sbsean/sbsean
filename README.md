@@ -1,7 +1,7 @@
 <h1 align="center">✨ Seongbin Hwang ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ultrasound%20Beamforming%20Engineer;Deep%20Learning%20Researcher;Medical%20AI%20Developer&center=true&size=30&color=F7768E">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ultrasound+Beamforming+Engineer;Deep+Learning+Researcher;Medical+AI+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sbsean&theme=algolia&no-frame=true&no-bg=true&margin-w=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sbsean&theme=darkhub&no-frame=true&no-bg=true&margin-w=20" />
 </p>
 
 ---
@@ -51,26 +51,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbsean&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 🚀 Research Topics
-
-- ✅ Ultrasound Plane Wave Imaging (PWI)
-- ✅ Delay-and-Sum (DAS) Beamforming
-- ✅ Focused Tx Beamforming
-- ✅ PRBF (Phase-based Receive Beamforming)
-- ✅ IQ-domain Beamforming & Pixel-Centric Grids
-- ✅ Deep Coherence Learning (DCL)
-- ✅ RF Domain Signal Processing
-
----
-
-### 📝 Representative Projects
-
-- 🔬 **Ultrasound Beamforming Series (BF_code, PRBF, Phased, Convex)**
-- 🔬 **Deep Coherence Learning - Ultrasound IQ-domain CNN Beamformer**
-- 🔬 **Custom Pixel-based Beamforming Pipeline Development**
 
 ---
 
