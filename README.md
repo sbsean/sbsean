@@ -1,12 +1,18 @@
 <h1 align="center">✨ Seongbin Hwang ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ultrasound%20Beamforming%20Engineer;Deep%20Learning%20Researcher;Medical%20AI%20Developer&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ultrasound%20Beamforming%20Engineer;Deep%20Learning%20Researcher;Medical%20AI%20Developer&center=true&size=30&color=F7768E">
 </p>
 
 <p align="center">
   🔬 Undergraduate Researcher at <b>BAIL Lab (Biomedical AI Laboratory)</b><br/>
   🎓 The Catholic University of Korea
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sbsean&theme=algolia&no-frame=true&no-bg=true&margin-w=20" />
 </p>
 
 ---
@@ -28,7 +34,6 @@
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=MathWorks&logoColor=white"/>
 
 
-
 </div>
 
 ---
@@ -41,6 +46,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbsean&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbsean&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
