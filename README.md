@@ -25,17 +25,17 @@
 
 ### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,java&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,matlab&perline=5" />
 </a>
 
 ### Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" />
+  <img src="https://skillicons.dev/icons?i=pytorch&perline=4" />
 </a>
 
 ### Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,ubuntu,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode&perline=6" />
 </a>
 
 ---
