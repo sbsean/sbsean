@@ -4,7 +4,7 @@
 <!-- About -->
 ## 👋 About Me
 
-<img width="50%" align="right" alt="Ultrasound" src="https://raw.githubusercontent.com/benc-uk/benc-uk/master/gh-header-image.png" />
+
 
 - 🔬 Undergraduate Researcher at **BAIL Lab (Biomedical AI Laboratory)**
 - 🎓 The Catholic University of Korea
