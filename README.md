@@ -6,7 +6,7 @@
 
 
 
-- 🔬 Undergraduate Researcher at **BAIL Lab (Biomedical AI Laboratory)**
+- 🔬 Undergraduate Researcher at **BAIL Lab (Biomedical Acoustic Innovation Laboratory)**
 - 🎓 The Catholic University of Korea
 - 🚀 Specializing in **Ultrasound Beamforming & Medical AI**
 - 💡 Research Areas: PRBF, Coherence Learning, Pixel-Centric Beamforming
